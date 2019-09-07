@@ -1,11 +1,15 @@
 creat table student(
 Student_id number(12),
 s_name varchar(10),
-Address varchar(50),
+Address varchar(25),
 Contact_No number(10)
 );
 
-insert into student(186230307501, 
+insert into student(186230307501,'vidhanshu','civil-ahmdabad',4557412144);
+insert into student(186230307502,'jay','sec-24-gandhinagar',7852412654);
+insert into student(186230307503,'omm','jashoda-ahmdabad',7390933937);
+insert into student(186230307504,'shakshat','sec-28-gandhinagar',4651267895);
+insert into student(186230307505,'meet',paldi-ahmdabad',4521698775);
 
 creat table fees(
 Name varchar(10),
@@ -37,4 +41,4 @@ Password ----------------------
 creat tablr Department(
 Dept_Id number(12),
 Department vartchar(15)
-);
+);42445
