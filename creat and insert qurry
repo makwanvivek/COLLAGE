@@ -1,6 +1,6 @@
 creat table employee(
 emp id number(10),
 emp name varchar(10),
-emp 
+emp vivek
 
 
