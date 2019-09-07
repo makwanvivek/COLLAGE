@@ -62,6 +62,14 @@ Dept_Id number(12),
 Department vartchar(15)
 );
 
-
-
+1 : Insert into department (dept_id, department) values(7, computer engineering);
+2 : Insert into department (dept_id,department) values(2, automobile engineering);
+3 : insert into department(dept_id,department) values(6,civil engineering);
+4 : insert into department (dept_id, department) values (11, electrical & communication);
+5 : insert into department (dept_id, department) values (9, electrical engineer);
+6 : insert into department (dept_id, department) values (16, information & technology);
+7 : insert into department (dept_id, department) values (17, instrumentations & control);
+8 : insert into department (dept_id, department) values (5, chemical engineer);
+9 : insert into department (dept_id, department) values (19, mechanical engineering);
+10: insert into department (dept_id, department) values (24,power electronics);
 -----------------------------------------------------------------------------------------------------------------------------------
