@@ -5,27 +5,26 @@ Address varchar(25),
 Contact_No number(10)
 );
 
-insert into student value(186230307501,'vidhanshu','civil-ahmdabad',4557412144);
-insert into student value(186230307502,'jay','sec-24-gandhinagar',7852412654);
-insert into student value(186230307503,'omm','jashoda-ahmdabad',7390933937);
-insert into student value(186230307504,'shakshat','sec-28-gandhinagar',4651267895);
-insert into student value(186230307505,'meet','paldi-ahmdabad',4521698775);
-insert into student value(186230307506,'manthan','paldi-ahmdabad',2546895214);
-insert into student value(186230307507,'kartik','mahesana',4562515875);
-insert into student value(186230307508,'mayur','sec-26-gandhinagar',4521369870);
-insert into student value(1862303075009,'vivek','bapunagar-ahmdabad',8511546850);
-insert into student value(186230307510,'smit','bapunagar-ahmdabad',1524697354);
+insert into student values(186230307501,'vidhanshu','civil-ahmdabad',4557412144);
+insert into student values(186230307502,'jay','sec-24-gandhinagar',7852412654);
+insert into student values(186230307503,'omm','jashoda-ahmdabad',7390933937);
+insert into student values(186230307504,'shakshat','sec-28-gandhinagar',4651267895);
+insert into student values(186230307505,'meet','paldi-ahmdabad',4521698775);
+insert into student values(186230307506,'manthan','paldi-ahmdabad',2546895214);
+insert into student values(186230307507,'kartik','mahesana',4562515875);
+insert into student values(186230307508,'mayur','sec-26-gandhinagar',4521369870);
+insert into student values(1862303075009,'vivek','bapunagar-ahmdabad',8511546850);
+insert into student values(186230307510,'smit','bapunagar-ahmdabad',1524697354);
 
 -----------------------------------------------------------------------------------------
 creat table fees(
-student_id number(12),
 Name varchar(10),
 receipt_no number(10),
 tuition_Fee number(50),
 Date_of_receipt date
 );
 
-insert into fees value(186230307501,'vidhanshu',30307501,1250,'18-mar-19');
+insert into fees values(186230307501,'vidhanshu',30307501,1250,'18-mar-19');
 
 
 
