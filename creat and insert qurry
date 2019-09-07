@@ -57,7 +57,7 @@ Password number(8)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-creat tablr Department(
+creat table Department(
 Dept_Id number(12),
 Department vartchar(15)
 );
