@@ -1,9 +1,11 @@
-+creat table student(
+creat table student(
 Student_id number(12),
 s_name varchar(10),
 Address varchar(50),
 Contact_No number(10)
 );
+
+insert into student(186230307501, 
 
 creat table fees(
 Name varchar(10),
