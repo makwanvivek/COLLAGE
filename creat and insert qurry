@@ -20,9 +20,11 @@ insert into student value(186230307510,'smit','bapunagar-ahmdabad',1524697354);
 creat table fees(
 Name varchar(10),
 receipt_no number(10),
-tuition_Fee number(10),
+tuition_Fee number(50),
 Date_of_receipt date
 );
+
+insert into fees value(186230307501,'vidhanshu',30307501,1250,'18-mar-19');
 
 
 
