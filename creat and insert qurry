@@ -43,7 +43,7 @@ Experience varchar(20)
 creat table Administartor(
 Admin_Id number(12),
 Admin-name varchar(10),
-Password ----------------------
+Password number(8)
 );
 
 creat tablr Department(
