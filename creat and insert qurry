@@ -42,4 +42,4 @@ Password ----------------------
 creat tablr Department(
 Dept_Id number(12),
 Department vartchar(15)
-);42445
+);
