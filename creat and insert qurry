@@ -36,13 +36,6 @@ Sub_name varchar(10),
 Marks number(5)
 );
 
-creat table course(
-Course_Id number(8),
-C_Name varchar(10),
-Qualifications varchar(40),
-Experience varchar(20)
-);
-
 creat table Administartor(
 Admin_Id number(12),
 Admin-name varchar(10),
