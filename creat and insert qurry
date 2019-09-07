@@ -1,4 +1,4 @@
-creat table student(
++creat table student(
 Student_id number(12),
 s_name varchar(10),
 Address varchar(50),
@@ -12,10 +12,27 @@ tuition_Fee number(50),
 Date_of_receipt(10)
 );
 
+creat table Exams(
+Reg_no number(10),
+Course varchar(10),
+Sub_name varchar(10),
+Marks number(5)
+);
 
+creat table course(
+Course_Id number(8),
+C_Name varchar(10),
+Qualifications varchar(40),
+Experience varchar(20)
+);
 
+creat table Administartor(
+Admin_Id number(12),
+Admin-name varchar(10),
+Password ----------------------
+);
 
-
-
-
-
+creat tablr Department(
+Dept_Id number(12),
+Department vartchar(15)
+);
