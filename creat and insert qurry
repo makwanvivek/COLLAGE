@@ -18,6 +18,7 @@ insert into student values(186230307510,'smit','bapunagar-ahmdabad',1524697354);
 
 -----------------------------------------------------------------------------------------
 creat table fees(
+Student_id number(12),
 Name varchar(10),
 receipt_no number(10),
 tuition_Fee number(50),
