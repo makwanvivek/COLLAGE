@@ -11,6 +11,7 @@ insert into student(186230307503,'omm','jashoda-ahmdabad',7390933937);
 insert into student(186230307504,'shakshat','sec-28-gandhinagar',4651267895);
 insert into student(186230307505,'meet',paldi-ahmdabad',4521698775);
 
+
 creat table fees(
 Name varchar(10),
 receipt_no number(10),
