@@ -1,4 +1,17 @@
-creat table collage(
+creat table student(
+Student_id number(12),
+s_name varchar(10),
+Address varchar(50),
+Contact_No number(10)
+);
+
+creat table fees(
+Name varchar(10),
+receipt_no number(10),
+tuition_Fee number(50),
+Date_of_receipt(10)
+);
+
 
 
 
