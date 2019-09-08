@@ -44,6 +44,35 @@ Sub_name varchar(10),
 Marks number(5)
 );
 
+1 : Insert into exam (reg_no, course,sub_name,marks) values (501, diploma, computer,46);
+
+
+2 : insert into exam (reg_no, course,sub_name,marks) values (561, diploma,f.d.e,54);
+
+
+3 : insert into exam (reg_no, course,sub_name, marks) values (544,mca, computer_network,60);
+
+
+4 : insert into exam (reg_no, course,sub_name,marks) values (111,M.E,a.d.b.m.s,55);
+
+
+5 : insert into exam (reg_no, course,sub_name,marks) values (233,B.E,Java,40);
+
+
+
+6 : insert into exam (reg_no, course,sub_name,marks) values (516, diploma,a.c.p,67);
+
+
+7 : insert into exam (reg_no, course,sub_name,marks) values (520, diploma,b_maths,54);
+
+
+8 : insert into exam ( reg_no, course,sub_name, marks) values (506, diploma,b_electronics,50);
+
+
+9 : insert into exam ( reg_no, course,sub_name, marks) values (519,B.E,c.n.s,49);
+
+
+10 : insert into exam ( reg_no, course,sub_name,marks) values (505,M.E,c++,43);
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
