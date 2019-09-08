@@ -53,6 +53,26 @@ Admin-name varchar(10),
 Password number(8)
 );
 
+insert into administrator (admin_id,admin_name, password) values (66,devraj Patel,667512);
+
+insert into administrator (admin_ id,admin_name, password) values (93, Shreya zala,333223);
+
+insert into administrator (admin_id,admin_name, password) values(76,Raj Patel,231002);
+
+insert into administrator ( admin_id,admin_name, password) values (23,parth Desai,123546);
+
+insert into administrator (admin_id,admin_name, password) values (17, Gaurav Mehta,234567);
+
+insert into administrator (admin_id,admin_name, password) values (22,kalpesh thakkar,935567);
+
+insert into administrator ( asmin_ I'd,admin_name, password) values (11,Vivek makwana,851154);
+
+insert into administrator (admin_id,admin_name, password) values (90,mayur kikani,490098);
+
+insert into administrator (admin_id,admin_name, password) values (20,Bhatt om,213465);
+
+insert into administrator (admin_id, admin_name, password) values (82,Devansh Bhatt,234144);
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -62,14 +82,14 @@ Dept_Id number(12),
 Department vartchar(15)
 );
 
-1 : Insert into department (dept_id, department) values(7, computer engineering);
-2 : Insert into department (dept_id,department) values(2, automobile engineering);
-3 : insert into department(dept_id,department) values(6,civil engineering);
-4 : insert into department (dept_id, department) values (11, electrical & communication);
-5 : insert into department (dept_id, department) values (9, electrical engineer);
-6 : insert into department (dept_id, department) values (16, information & technology);
-7 : insert into department (dept_id, department) values (17, instrumentations & control);
-8 : insert into department (dept_id, department) values (5, chemical engineer);
-9 : insert into department (dept_id, department) values (19, mechanical engineering);
-10: insert into department (dept_id, department) values (24,power electronics);
+insert into department (dept_id, department) values(7, computer engineering);
+insert into department (dept_id,department) values(2, automobile engineering);
+insert into department(dept_id,department) values(6,civil engineering);
+insert into department (dept_id, department) values (11, electrical & communication);
+insert into department (dept_id, department) values (9, electrical engineer);
+insert into department (dept_id, department) values (16, information & technology);
+insert into department (dept_id, department) values (17, instrumentations & control);
+insert into department (dept_id, department) values (5, chemical engineer);
+insert into department (dept_id, department) values (19, mechanical engineering);
+insert into department (dept_id, department) values (24,power electronics);
 -----------------------------------------------------------------------------------------------------------------------------------
