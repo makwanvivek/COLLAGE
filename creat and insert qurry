@@ -44,35 +44,16 @@ Sub_name varchar(10),
 Marks number(5)
 );
 
-1 : Insert into exam (reg_no, course,sub_name,marks) values (501, diploma, computer,46);
-
-
-2 : insert into exam (reg_no, course,sub_name,marks) values (561, diploma,f.d.e,54);
-
-
-3 : insert into exam (reg_no, course,sub_name, marks) values (544,mca, computer_network,60);
-
-
-4 : insert into exam (reg_no, course,sub_name,marks) values (111,M.E,a.d.b.m.s,55);
-
-
-5 : insert into exam (reg_no, course,sub_name,marks) values (233,B.E,Java,40);
-
-
-
-6 : insert into exam (reg_no, course,sub_name,marks) values (516, diploma,a.c.p,67);
-
-
-7 : insert into exam (reg_no, course,sub_name,marks) values (520, diploma,b_maths,54);
-
-
-8 : insert into exam ( reg_no, course,sub_name, marks) values (506, diploma,b_electronics,50);
-
-
-9 : insert into exam ( reg_no, course,sub_name, marks) values (519,B.E,c.n.s,49);
-
-
-10 : insert into exam ( reg_no, course,sub_name,marks) values (505,M.E,c++,43);
+Insert into exam (reg_no, course,sub_name,marks) values (501, diploma, computer,46);
+insert into exam (reg_no, course,sub_name,marks) values (561, diploma,f.d.e,54);
+insert into exam (reg_no, course,sub_name, marks) values (544,mca, computer_network,60);
+insert into exam (reg_no, course,sub_name,marks) values (111,M.E,a.d.b.m.s,55);
+insert into exam (reg_no, course,sub_name,marks) values (233,B.E,Java,40);
+insert into exam (reg_no, course,sub_name,marks) values (516, diploma,a.c.p,67);
+insert into exam (reg_no, course,sub_name,marks) values (520, diploma,b_maths,54);
+insert into exam (reg_no, course,sub_name, marks) values (506, diploma,b_electronics,50);
+insert into exam (reg_no, course,sub_name, marks) values (519,B.E,c.n.s,49);
+insert into exam (reg_no, course,sub_name,marks) values (505,M.E,c++,43);
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,26 +64,15 @@ Password number(8)
 );
 
 insert into administrator (admin_id,admin_name, password) values (66,devraj Patel,667512);
-
 insert into administrator (admin_ id,admin_name, password) values (93, Shreya zala,333223);
-
 insert into administrator (admin_id,admin_name, password) values(76,Raj Patel,231002);
-
-insert into administrator ( admin_id,admin_name, password) values (23,parth Desai,123546);
-
+insert into administrator (admin_id,admin_name, password) values (23,parth Desai,123546);
 insert into administrator (admin_id,admin_name, password) values (17, Gaurav Mehta,234567);
-
 insert into administrator (admin_id,admin_name, password) values (22,kalpesh thakkar,935567);
-
-insert into administrator ( asmin_ I'd,admin_name, password) values (11,Vivek makwana,851154);
-
+insert into administrator (admin_id,admin_name, password) values (11,Vivek makwana,851154);
 insert into administrator (admin_id,admin_name, password) values (90,mayur kikani,490098);
-
 insert into administrator (admin_id,admin_name, password) values (20,Bhatt om,213465);
-
 insert into administrator (admin_id, admin_name, password) values (82,Devansh Bhatt,234144);
-
-
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
