@@ -16,7 +16,7 @@ insert into student values(186230307508,'mayur','sec-26-gandhinagar',4521369870)
 insert into student values(1862303075009,'vivek','bapunagar-ahmdabad',8511546850);
 insert into student values(186230307510,'smit','bapunagar-ahmdabad',1524697354);
 
------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 creat table fees(
 Student_id number(12),
 Name varchar(10),
